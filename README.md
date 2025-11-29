@@ -210,13 +210,14 @@ The model provides:
 
 ```
 hansa/
-├── Hansa.ipynb              # Training notebook
-├── predict.py               # Inference script
-├── hansa.keras              # Trained model
-├── training_config.json     # Training metadata
-├── requirements.txt         # Dependencies
-├── README.md               # Documentation
-└── data/                   # Dataset (not included)
+├── Hansa.ipynb                   # Training notebook
+├── predict.py                    # Inference script
+├── hansa.keras                   # Trained model
+├── hansa_best.keras              # Best trained model
+├── training_config.json          # Training metadata
+├── requirements.txt              # Dependencies
+├── README.md                     # Documentation
+└── data/                         # Dataset (not included)
     ├── train/
     └── test/
 ```
