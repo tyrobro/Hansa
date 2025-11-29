@@ -83,7 +83,7 @@ data/
 ## Training
 
 ```bash
-jupyter notebook Hansa.ipynb
+jupyter notebook hansa.ipynb
 ```
 
 **Training Configuration:**
